@@ -1,29 +1,28 @@
----
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
-categories:
-  - blog
-tags:
-  - Jekyll
-  - update
----
+<span style="font-family:Chilanka; font-size: 3em; color:lightblue"> Sumedha's Stuff</span>
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Pigeon Hungama!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+![pigeon_copyright](../assets/images/drawings/pigeon_cpright.jpg)
 
-Jekyll also offers powerful support for code snippets:
+This is a pigeon, and this was one of my first water colour paintings. It looks pretty satisfying for a **first** shot I feel. The technique for the scruffy wings is to use a **thin** brush. And the bluish - green part of the pigeon's neck was made **accidentally** great. All this was also with the help of my **drawing teacher**, ***Roopa ma'am***. Hope you all like it!
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+# Coffee Break
+
+![coffee-break_copyright](../assets/images/drawings/coffee-break_cpright.jpg)
+
+This is another drawing of mine. In fact, it's a **doodle**! It really doesn't **only** have coffee but also other **"savouries"** like, donuts, muffins, omelette, etc. it also has **Coffee Beans**! The triangular savoury is called *samosa*, an Indian savoury. This is also with the help of my **drawing teacher**, ***Roopa ma'am***. Hope you all like it!
+
+
+
+# Lady Modern Art
+
+![lady-modern-art_copyright](../assets/images/drawings/lady-modern-art_cpright.jpg) 
+
+This is also another drawing of mine, **Lady Modern Art**. Well, it is called **Modern Art** because it made in different colours rather than the real world. For example, the lady is totally in grey colour. This is also with the help of my **drawing teacher**, ***Roopa ma'am***.
+
+
+
+
+
